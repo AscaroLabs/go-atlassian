@@ -39,7 +39,7 @@ If you do not have [Go](https://golang.org/) installed yet, you can find install
 To pull the most recent version of **go-atlassian**, use `go get`.
 
 ```
-go get github.com/ctreminiom/go-atlassian
+go get github.com/ctreminiom/go-atlassian  
 ```
 
 -------------------------
